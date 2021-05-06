@@ -1,7 +1,7 @@
 👋 Hello, I’m Martin  
 🚀 Front-end React/Javascript Developer  
 🏠 Manchester, UK   
-🌱 I’m currently learning react-qery   
+🌱 I’m currently learning react-query   
 💞️ I’m looking to collaborate on any react-based open source projects   
 📫 Hit me up @ martinryanellis@gmail.com   
 
